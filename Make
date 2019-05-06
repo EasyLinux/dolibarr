@@ -1,0 +1,4 @@
+#!/bin/bash
+echo -n "Version à télécharger : "
+read Ver
+
